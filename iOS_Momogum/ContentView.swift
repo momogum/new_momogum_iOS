@@ -9,10 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Text("진짜 머머금임")
-        }
-        .padding()
+        SplashView()
     }
 }
 
